@@ -11,7 +11,7 @@ const ProjectDetail = () => {
       title: 'Health.gov.ng',
       description: 'Official government health portal providing comprehensive health information and services to Nigerian citizens.',
       longDescription: 'The Health.gov.ng project represents a comprehensive digital transformation initiative for the Nigerian health sector. This platform serves as the central hub for health information, policy updates, and citizen services. The project involved creating a scalable, secure, and user-friendly platform that can handle high traffic volumes while maintaining optimal performance and accessibility standards.',
-      image: '/src/images/healthhomepage.png',
+      image: '/images/healthhomepage.png',
       tech: ['WordPress', 'PHP', 'MySQL', 'Custom Plugins', 'REST API', 'Security Hardening'],
       role: 'Lead Developer',
       url: 'https://health.gov.ng',
@@ -19,10 +19,10 @@ const ProjectDetail = () => {
       duration: '6 months',
       team: '5 developers',
       gallery: [
-        '/src/images/health1.jpeg',
-        '/src/images/health2.png',
-        '/src/images/health3.png',
-        '/src/images/healthhomepage.png'
+        '/images/health1.jpeg',
+        '/images/health2.png',
+        '/images/health3.png',
+        '/images/healthhomepage.png'
       ],
       challenges: [
         'Implementing robust security measures for government-grade compliance',
@@ -41,7 +41,7 @@ const ProjectDetail = () => {
       title: 'Tosol Impact',
       description: 'Non-profit organization platform focused on sustainable development and community impact initiatives.',
       longDescription: 'Tosol Impact is a comprehensive platform designed to amplify the reach and effectiveness of non-profit organizations. The platform includes features for project management, donor engagement, impact tracking, and community building. Built with modern web technologies to ensure scalability and user engagement.',
-      image: '/src/images/tosolhomepage.png',
+      image: '/images/tosolhomepage.png',
       tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Socket.io', 'Stripe API'],
       role: 'Full-Stack Developer',
       url: 'https://tosolimpact.org',
@@ -49,10 +49,10 @@ const ProjectDetail = () => {
       duration: '4 months',
       team: '3 developers',
       gallery: [
-        '/src/images/tosolhomepage1.png',
-        '/src/images/tosolhomepage2.png',
-        '/src/images/tosolhomepage3.png',
-        '/src/images/tosolhomepage4.png'
+        '/images/tosolhomepage1.png',
+        '/images/tosolhomepage2.png',
+        '/images/tosolhomepage3.png',
+        '/images/tosolhomepage4.png'
       ],
       challenges: [
         'Creating an intuitive donation flow',
@@ -71,7 +71,7 @@ const ProjectDetail = () => {
       title: 'Tikvah Sanctuary',
       description: 'Spiritual community platform with event management, donation systems, and member portal.',
       longDescription: 'Tikvah Sanctuary represents a modern approach to spiritual community management. The platform integrates worship services, community events, member management, and donation systems into a cohesive digital experience. Special attention was given to creating an inclusive and accessible design that serves diverse community needs.',
-      image: '/src/images/tikvahhomepage.png',
+      image: '/images/tikvahhomepage.png',
       tech: ['WordPress', 'WooCommerce', 'Custom Themes', 'Payment Gateways', 'Event Management'],
       role: 'WordPress Developer',
       url: 'https://tikvahsanctuary.org',
@@ -79,10 +79,10 @@ const ProjectDetail = () => {
       duration: '3 months',
       team: '2 developers',
       gallery: [
-        '/src/images/tikvahhomepage.png',
-        '/src/images/tikvahhomepage1.png',
-        '/src/images/tikvahhomepage2.png',
-        '/src/images/tikvahhomepage3.png'
+        '/images/tikvahhomepage.png',
+        '/images/tikvahhomepage1.png',
+        '/images/tikvahhomepage2.png',
+        '/images/tikvahhomepage3.png'
       ],
       challenges: [
         'Creating seamless event registration system',
@@ -101,7 +101,7 @@ const ProjectDetail = () => {
       title: 'Emeforex',
       description: 'Financial trading platform with real-time market data, portfolio management, and trading tools.',
       longDescription: 'Emeforex is a sophisticated financial trading platform that provides real-time market data, advanced charting tools, and portfolio management capabilities. The platform is designed to handle high-frequency trading data while maintaining excellent user experience and security standards.',
-      image: '/src/images/emeforex1.png',
+      image: '/images/emeforex1.png',
       tech: ['React', 'TypeScript', 'WebSocket', 'Node.js', 'Redis', 'Chart.js'],
       role: 'Frontend Lead',
       url: 'https://emeforex.com',
@@ -109,10 +109,10 @@ const ProjectDetail = () => {
       duration: '8 months',
       team: '6 developers',
       gallery: [
-        '/src/images/emeforex1.png',
-        '/src/images/emeforex2.png',
-        '/src/images/emeforex3.png',
-        '/src/images/emeforex4.png'
+        '/images/emeforex1.png',
+        '/images/emeforex2.png',
+        '/images/emeforex3.png',
+        '/images/emeforex4.png'
       ],
       challenges: [
         'Implementing real-time data streaming',
@@ -131,7 +131,7 @@ const ProjectDetail = () => {
       title: 'Capital Emeforex',
       description: 'Investment management platform with advanced analytics, risk assessment, and portfolio optimization.',
       longDescription: 'Capital Emeforex is an advanced investment management platform that provides sophisticated analytics, risk assessment tools, and portfolio optimization features. The platform serves institutional investors and wealth managers with enterprise-grade functionality and security.',
-      image: '/src/images/capitalemeforex1.png',
+      image: '/images/capitalemeforex1.png',
       tech: ['Next.js', 'PostgreSQL', 'Redis', 'Docker', 'AWS', 'D3.js'],
       role: 'Full-Stack Developer',
       url: 'https://capital.emeforex.com',
@@ -139,10 +139,10 @@ const ProjectDetail = () => {
       duration: '10 months',
       team: '8 developers',
       gallery: [
-        '/src/images/capitalemeforex1.png',
-        '/src/images/capitalemeforex2.png',
-        '/src/images/capitalemeforex3.png',
-        '/src/images/capitalemeforex4.png'
+        '/images/capitalemeforex1.png',
+        '/images/capitalemeforex2.png',
+        '/images/capitalemeforex3.png',
+        '/images/capitalemeforex4.png'
       ],
       challenges: [
         'Building complex analytics dashboard',

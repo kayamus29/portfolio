@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import portraitImg from '../images/ChatGPT Image Jul 17, 2025, 11_56_03 AM.png';
+const portraitImg = '/images/ChatGPT Image Jul 17, 2025, 11_56_03 AM.png';
 import { animated, useSpring, useChain, useSpringRef } from '@react-spring/web';
 import { ChevronDown, Github, Linkedin, Mail, Download, ExternalLink } from 'lucide-react';
 
