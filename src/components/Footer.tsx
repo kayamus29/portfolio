@@ -14,9 +14,7 @@ const Footer = () => {
           </div>
           
           <div className="flex items-center space-x-2 text-gray-400">
-            <span>Made with</span>
-            <Heart className="w-4 h-4 text-red-500" />
-            <span>© 2024 All rights reserved</span>
+            <span>© 2025 All rights reserved</span>
           </div>
         </div>
       </div>
